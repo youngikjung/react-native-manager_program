@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "388456412913",
+    "project_id": "throo-sales-app",
+    "storage_bucket": "throo-sales-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388456412913:android:f83b0b43bb8fe75f1d1b50",
+        "android_client_info": {
+          "package_name": "com.throo_sales"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388456412913-n5v9u1osbsdjac5j07gn2kq2i4r96cfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArvewMJLeAXcdp39wbcmmxmIM-zq41984"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388456412913-n5v9u1osbsdjac5j07gn2kq2i4r96cfj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "388456412913-cq3qkkhoerg10nrh91qk8mn73oj7eltg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.throo-sales"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
